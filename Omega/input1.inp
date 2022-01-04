@@ -1,0 +1,10 @@
+length 165
+numgroups 2
+numBins 165
+FisConvergeError 1e-10
+FluxConvergeError 1e-10
+ReactorPower 1e-6
+dt 0.5
+problem 1
+flux real
+method GaussSeidel
