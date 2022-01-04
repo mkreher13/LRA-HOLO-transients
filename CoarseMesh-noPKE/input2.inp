@@ -1,0 +1,11 @@
+length 165
+numgroups 2
+numBins 165
+FluxConvergeError 1e-10
+ReactorPower 1e-6
+dt 0.005
+subStep 0.0001
+t_end 3.0
+problem 2
+flux real
+repeat_inner 0
